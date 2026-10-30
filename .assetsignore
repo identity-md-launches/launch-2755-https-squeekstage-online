@@ -1,0 +1,17 @@
+.assetsignore
+.git
+.git/**
+worker.js
+wrangler.jsonc
+README.md
+LICENSE
+CNAME
+*.zip
+.npm-cache
+.npm-cache/**
+.npm-global
+.npm-global/**
+node_modules
+node_modules/**
+.wrangler
+.wrangler/**
