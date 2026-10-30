@@ -99,3 +99,24 @@ Design notes:
 ## License
 
 MIT.
+
+
+## Deploy to Cloudflare Workers
+
+The repository includes a Cloudflare Worker that serves the static site through the Workers Static Assets binding. Requests pass through the Worker, and `/health` returns JSON to confirm the Worker is running. No secrets or backend services are required.
+
+Production deployment: <https://squeekstage.uncle0-dev.workers.dev/>. Health check: <https://squeekstage.uncle0-dev.workers.dev/health>.
+
+1. Install Node.js, then sign in to Cloudflare from this project directory:
+
+   ```bash
+   npx wrangler@4.30.0 login
+   ```
+
+2. Deploy the Worker and site:
+
+   ```bash
+   npx wrangler@4.30.0 deploy
+   ```
+
+For a local preview, run `npx wrangler@4.30.0 dev`. The Worker is configured in `wrangler.jsonc`; `.assetsignore` keeps project and deployment files out of the public asset bundle. To connect `squeekstage.online`, add it as a Workers custom domain in Cloudflare after deployment. The current Hostinger DNS still points the custom domain to GitHub Pages until changed.
