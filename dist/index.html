@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SqueekStage · Small paws. Real blocks.</title>
+    <meta
+      name="description"
+      content="A live stream companion for the Squeekchain hamster wheel. Follow the blocks, set up your OBS overlay, and send SQK tips on Sepolia."
+    />
+    <meta name="theme-color" content="#0b0b0d" />
+    <meta
+      property="og:title"
+      content="SqueekStage · Small paws. Real blocks."
+    />
+    <meta
+      property="og:description"
+      content="One hamster. Every block. Live Squeekchain stats, an OBS overlay, and SQK tips on Sepolia."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="./share.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="SqueekStage: Small paws. Real blocks. A golden hamster inside a wheel."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <script>
+      if (
+        new URLSearchParams(location.search).has("obs") &&
+        location.hash.startsWith("#/stage")
+      )
+        document.documentElement.classList.add("obs");
+    </script>
+    <script type="module" crossorigin src="./assets/index-BPvyNk-8.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-C-6xK1W9.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript
+      >SqueekStage needs JavaScript to read live Squeekchain data and prepare
+      your overlay. Enable JavaScript and reload.</noscript
+    >
+  </body>
+</html>

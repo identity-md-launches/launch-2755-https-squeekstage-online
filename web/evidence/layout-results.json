@@ -1,0 +1,268 @@
+{
+  "firstScreen": {
+    "headline": {
+      "x": 20,
+      "y": 157,
+      "width": 350,
+      "height": 35.828125,
+      "top": 157,
+      "right": 370,
+      "bottom": 192.828125,
+      "left": 20
+    },
+    "action": {
+      "x": 201,
+      "y": 267.609375,
+      "width": 169,
+      "height": 46,
+      "top": 267.609375,
+      "right": 370,
+      "bottom": 313.609375,
+      "left": 201
+    },
+    "wheel": {
+      "x": 21,
+      "y": 404.40625,
+      "width": 348,
+      "height": 288.359375,
+      "top": 404.40625,
+      "right": 369,
+      "bottom": 692.765625,
+      "left": 21
+    },
+    "fonts": "loaded"
+  },
+  "pages": [
+    {
+      "route": "/",
+      "width": 320,
+      "scroll": 320,
+      "over": false
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "scroll": 390,
+      "over": false
+    },
+    {
+      "route": "/",
+      "width": 700,
+      "scroll": 700,
+      "over": false
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "scroll": 768,
+      "over": false
+    },
+    {
+      "route": "/",
+      "width": 1000,
+      "scroll": 1000,
+      "over": false
+    },
+    {
+      "route": "/",
+      "width": 1200,
+      "scroll": 1200,
+      "over": false
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "scroll": 1440,
+      "over": false
+    },
+    {
+      "route": "/stage",
+      "width": 320,
+      "scroll": 320,
+      "over": false
+    },
+    {
+      "route": "/stage",
+      "width": 390,
+      "scroll": 390,
+      "over": false
+    },
+    {
+      "route": "/stage",
+      "width": 700,
+      "scroll": 700,
+      "over": false
+    },
+    {
+      "route": "/stage",
+      "width": 768,
+      "scroll": 768,
+      "over": false
+    },
+    {
+      "route": "/stage",
+      "width": 1000,
+      "scroll": 1000,
+      "over": false
+    },
+    {
+      "route": "/stage",
+      "width": 1200,
+      "scroll": 1200,
+      "over": false
+    },
+    {
+      "route": "/stage",
+      "width": 1440,
+      "scroll": 1440,
+      "over": false
+    },
+    {
+      "route": "/tip",
+      "width": 320,
+      "scroll": 320,
+      "over": false
+    },
+    {
+      "route": "/tip",
+      "width": 390,
+      "scroll": 390,
+      "over": false
+    },
+    {
+      "route": "/tip",
+      "width": 700,
+      "scroll": 700,
+      "over": false
+    },
+    {
+      "route": "/tip",
+      "width": 768,
+      "scroll": 768,
+      "over": false
+    },
+    {
+      "route": "/tip",
+      "width": 1000,
+      "scroll": 1000,
+      "over": false
+    },
+    {
+      "route": "/tip",
+      "width": 1200,
+      "scroll": 1200,
+      "over": false
+    },
+    {
+      "route": "/tip",
+      "width": 1440,
+      "scroll": 1440,
+      "over": false
+    },
+    {
+      "route": "/setup",
+      "width": 320,
+      "scroll": 320,
+      "over": false
+    },
+    {
+      "route": "/setup",
+      "width": 390,
+      "scroll": 390,
+      "over": false
+    },
+    {
+      "route": "/setup",
+      "width": 700,
+      "scroll": 700,
+      "over": false
+    },
+    {
+      "route": "/setup",
+      "width": 768,
+      "scroll": 768,
+      "over": false
+    },
+    {
+      "route": "/setup",
+      "width": 1000,
+      "scroll": 1000,
+      "over": false
+    },
+    {
+      "route": "/setup",
+      "width": 1200,
+      "scroll": 1200,
+      "over": false
+    },
+    {
+      "route": "/setup",
+      "width": 1440,
+      "scroll": 1440,
+      "over": false
+    },
+    {
+      "route": "/about",
+      "width": 320,
+      "scroll": 320,
+      "over": false
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "scroll": 390,
+      "over": false
+    },
+    {
+      "route": "/about",
+      "width": 700,
+      "scroll": 700,
+      "over": false
+    },
+    {
+      "route": "/about",
+      "width": 768,
+      "scroll": 768,
+      "over": false
+    },
+    {
+      "route": "/about",
+      "width": 1000,
+      "scroll": 1000,
+      "over": false
+    },
+    {
+      "route": "/about",
+      "width": 1200,
+      "scroll": 1200,
+      "over": false
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "scroll": 1440,
+      "over": false
+    }
+  ],
+  "tipAction": {
+    "x": 41,
+    "y": 790.171875,
+    "width": 308,
+    "height": 46,
+    "top": 790.171875,
+    "right": 349,
+    "bottom": 836.171875,
+    "left": 41
+  },
+  "reducedMotion": {
+    "animations": 0,
+    "transition": "0s"
+  },
+  "rtlOverflow": false,
+  "textResize200": {
+    "overflow": false,
+    "width": 390
+  },
+  "errors": [],
+  "missingLocal": []
+}

@@ -1,0 +1,109 @@
+{
+  "results": [
+    {
+      "name": "Chromium: first screen, metadata and relative assets",
+      "passed": true
+    },
+    {
+      "name": "Chromium: expand and collapse on-chain events",
+      "passed": true
+    },
+    {
+      "name": "Chromium: wallet dialog keyboard, backdrop and focus return",
+      "passed": true
+    },
+    {
+      "name": "Chromium: setup validation, save, reload and share links",
+      "passed": true
+    },
+    {
+      "name": "Chromium: stage test alert, sound toggle and demo pause",
+      "passed": true
+    },
+    {
+      "name": "Chromium: transparent OBS export and encoded settings",
+      "passed": true
+    },
+    {
+      "name": "Chromium: recipient, amount and disconnected tip flow",
+      "passed": true
+    },
+    {
+      "name": "Chromium: API outage, stale retention and recovery",
+      "passed": true
+    },
+    {
+      "name": "Chromium: mobile wallet links and Coinbase option",
+      "passed": true
+    },
+    {
+      "name": "Chromium: EIP-6963 discovery, rejection and Sepolia switching",
+      "passed": true
+    },
+    {
+      "name": "Chromium: exact ERC-20 transfer, rejection, success and receipt failure",
+      "passed": true
+    },
+    {
+      "name": "Chromium: pending receipt, duplicate-send guard and recheck",
+      "passed": true
+    },
+    {
+      "name": "Chromium: disconnect returns to the wallet prompt",
+      "passed": true
+    },
+    {
+      "name": "WebKit: first screen, metadata and relative assets",
+      "passed": true
+    },
+    {
+      "name": "WebKit: expand and collapse on-chain events",
+      "passed": true
+    },
+    {
+      "name": "WebKit: wallet dialog keyboard, backdrop and focus return",
+      "passed": true
+    },
+    {
+      "name": "WebKit: setup validation, save, reload and share links",
+      "passed": true
+    },
+    {
+      "name": "WebKit: stage test alert, sound toggle and demo pause",
+      "passed": true
+    },
+    {
+      "name": "WebKit: transparent OBS export and encoded settings",
+      "passed": true
+    },
+    {
+      "name": "WebKit: recipient, amount and disconnected tip flow",
+      "passed": true
+    },
+    {
+      "name": "WebKit: API outage, stale retention and recovery",
+      "passed": true
+    },
+    {
+      "name": "WebKit: mobile wallet links and Coinbase option",
+      "passed": true
+    },
+    {
+      "name": "WebKit: EIP-6963 discovery, rejection and Sepolia switching",
+      "passed": true
+    },
+    {
+      "name": "WebKit: exact ERC-20 transfer, rejection, success and receipt failure",
+      "passed": true
+    },
+    {
+      "name": "WebKit: pending receipt, duplicate-send guard and recheck",
+      "passed": true
+    },
+    {
+      "name": "WebKit: disconnect returns to the wallet prompt",
+      "passed": true
+    }
+  ],
+  "failures": 0
+}
